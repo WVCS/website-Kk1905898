@@ -31,12 +31,6 @@ body{
   background-color: wheat;
 }
 
-img:hover {
-  width: 300px;
-  border: black 20px;
-  border-radius: 70;
-}
-
 h3:hover {
   width: 300px;
   border: black 20px;
